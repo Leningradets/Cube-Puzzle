@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84271591f998d0c498fe0afa0b642d04, type: 3}
+  m_Name: PuzzleConfig
+  m_EditorClassIdentifier: 
+  _cube: {fileID: 6541104986024331699, guid: 9e650c270f879bc4c94287b1e0bae17e, type: 3}
+  Distort: 1
+  _mouseSens: 20
+  _touchSens: 7
+  _accuracy: 0.7
+  _time: 0
+  _animationSpeed: 0
